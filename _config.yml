@@ -1,0 +1,28 @@
+name: inconvenientdesign
+favicon: null
+layout_spectrum: 0.5150029978249222
+typography_spectrum: 0.716846046037972
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.009364976081997156
+  lightness: 0.11890828097239137
+  saturation: 0.5980715919286013
+  rhythmicContrast: 0.5340426668990403
+purpose: []
