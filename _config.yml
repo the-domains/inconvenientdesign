@@ -1,7 +1,7 @@
 name: inconvenientdesign
 favicon: null
-layout_spectrum: 0.5150029978249222
-typography_spectrum: 0.716846046037972
+layout_spectrum: 1
+typography_spectrum: 0.60431
 title: inconvenientdesign
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#fefefe'
+    - '#d18815'
+    - '#4b3013'
+    - '#d1cecc'
   brandStrength: 0.009364976081997156
   lightness: 0.11890828097239137
   saturation: 0.5980715919286013
